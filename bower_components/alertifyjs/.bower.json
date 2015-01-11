@@ -1,0 +1,42 @@
+{
+  "name": "alertify.js",
+  "version": "0.3.12",
+  "main": "dist/js/alertify.js",
+  "authors": [
+    {
+      "name": "Fabien Doiron",
+      "email": "fabien.doiron@gmail.com"
+    },
+    {
+      "name": "Brad Berger",
+      "email": "brad@bradb.net",
+      "homepage": "https://bradb.net"
+    }
+  ],
+  "ignore": [
+    ".gitignore",
+    "gulpfile.js",
+    "package.json",
+    "test",
+    "src",
+    "example",
+    ".travis.yml",
+    "Contributors.md"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "jquery": "*",
+    "qunit": "*"
+  },
+  "homepage": "https://github.com/alertifyjs/alertify.js",
+  "_release": "0.3.12",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.3.12",
+    "commit": "c5498c05ca7e96a7a1fe8a13d36376147ddc7f88"
+  },
+  "_source": "git://github.com/alertifyjs/alertify.js.git",
+  "_target": "~0.3.12",
+  "_originalSource": "alertifyjs",
+  "_direct": true
+}

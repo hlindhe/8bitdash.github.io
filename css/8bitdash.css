@@ -1,0 +1,31 @@
+#footer {
+    position: fixed;
+    z-index: 100; 
+    bottom: 0; 
+    left: 0;
+    width: 100%;
+    font-size: 0.5em;
+    text-align: center;
+}
+
+#center {
+  width: 640px;
+  height: 100px;
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  text-align: center;
+}
+
+#clock {
+  font-size: 4em;
+  text-shadow: 0px 0px 2px #000;
+}
+
+#greeting {
+  text-shadow: 0px 0px 2px #000;
+}
+
