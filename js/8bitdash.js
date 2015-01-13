@@ -205,5 +205,21 @@ window.onload = function() {
     dash.nextBackground()});
   Mousetrap.bind("left", function() {
     dash.previousBackground()});
+  Mousetrap.bind("g", function() {
+    window.location.href = "https://www.github.com"
+  });
+  Mousetrap.bind("e", function() {
+    window.location.href = "https://www.ebay.com"
+  });
+  Mousetrap.bind("a", function() {
+    window.location.href = "https://www.amazon.com"
+  });
+  Mousetrap.bind("o", function() {
+    window.location.href = "https://www.google.com"
+  });
+  Mousetrap.bind("p", function() {
+    window.location.href = "https://www.google.com/images"
+  });
+
 }
 
