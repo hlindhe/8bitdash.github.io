@@ -95,7 +95,7 @@ var Dash = function() {
     if(file in credits) {
       this.changeCredit(credits[file]);
     } else {
-      this.changeCredit("Take credit as artist here.")
+      this.changeCredit("Mention me @madewithtea to take credit for your art.")
     }
   } 
 
