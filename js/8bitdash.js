@@ -27,7 +27,8 @@ var Dash = function() {
      "bridge_raining.gif",
      "snow.gif", 
      "nature.gif",
-     "sea.gif"],
+     "sea.gif",
+     "forrest.gif"],
      "gaming":
     ["gaming.gif",
      "bridge.gif",
@@ -40,7 +41,8 @@ var Dash = function() {
      "shovelnight.gif",
      "zelda2.gif",
      "watchdogs.gif",
-     "kirby2.gif"],
+     "kirby2.gif",
+     "samurai.gif"],
      "cities":
     ["koreanscene.gif",
      "of_fire_and_waves_0.gif",
