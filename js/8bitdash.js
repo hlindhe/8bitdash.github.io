@@ -30,7 +30,8 @@ var Dash = function() {
      "sea.gif",
      "forrest.gif"],
      "gaming":
-    ["gaming.gif",
+    ["cyber.gif",
+     "gaming.gif",
      "bridge.gif",
      "kirby.gif",
      "hyperlight.gif",
